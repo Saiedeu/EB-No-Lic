@@ -1,0 +1,20 @@
+[2025-07-21 18:13:40] [EBLicenseVerifier] EBLicenseVerifier v2.0.0 initialized
+[2025-07-21 18:13:40] [EBLicenseVerifier] License Key: EB-3XBWY-N...
+[2025-07-21 18:13:40] [EBLicenseVerifier] Domain: demo.exchange-bridge.rf.gd
+[2025-07-21 18:13:40] [EBLicenseVerifier] IP: 178.153.93.168
+[2025-07-21 18:13:40] [EBLicenseVerifier] API URL: https://eb-admin.rf.gd/api.php
+[2025-07-21 18:13:40] [EBLicenseVerifier] Activating license with server: https://eb-admin.rf.gd/api.php
+[2025-07-21 18:13:40] [EBLicenseVerifier] Activation data: {"action":"activate","license_key":"EB-3XBWY-NNRK4-LPPK4-9MZJV","domain":"demo.exchange-bridge.rf.gd","ip":"178.153.93.168","api_key":"d7x9HgT2...","product":"default"}
+[2025-07-21 18:13:40] [EBLicenseVerifier] cURL HTTP Code: 200
+[2025-07-21 18:13:40] [EBLicenseVerifier] Activation response: {"status":"success","message":"License activated successfully","validation_type":"automatic","license_status":"active","expires":null}
+[2025-07-21 18:13:40] [EBLicenseVerifier] License activated successfully
+[2025-07-21 18:43:09] [EBLicenseVerifier] EBLicenseVerifier v2.0.0 initialized
+[2025-07-21 18:43:09] [EBLicenseVerifier] License Key: EB-S65MG-V...
+[2025-07-21 18:43:09] [EBLicenseVerifier] Domain: demo.exchange-bridge.rf.gd
+[2025-07-21 18:43:09] [EBLicenseVerifier] IP: 178.153.93.168
+[2025-07-21 18:43:09] [EBLicenseVerifier] API URL: https://eb-admin.rf.gd/api.php
+[2025-07-21 18:43:09] [EBLicenseVerifier] Activating license with server: https://eb-admin.rf.gd/api.php
+[2025-07-21 18:43:09] [EBLicenseVerifier] Activation data: {"action":"activate","license_key":"EB-S65MG-V84H5-QQNDF-DDAHC","domain":"demo.exchange-bridge.rf.gd","ip":"178.153.93.168","api_key":"d7x9HgT2...","product":"default"}
+[2025-07-21 18:43:09] [EBLicenseVerifier] cURL HTTP Code: 200
+[2025-07-21 18:43:09] [EBLicenseVerifier] Activation response: {"status":"success","message":"License activated successfully","validation_type":"automatic","license_status":"active","expires":null}
+[2025-07-21 18:43:09] [EBLicenseVerifier] License activated successfully
